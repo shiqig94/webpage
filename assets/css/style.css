@@ -18,6 +18,9 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 .btn-primary{
   margin-left: 20px;
 }
+.btn-second{
+    margin-left:40px;
+}
 .blog-title{
   color: #385A30;
   font-family: "Lato";
